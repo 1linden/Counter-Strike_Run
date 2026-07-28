@@ -10,7 +10,7 @@ FPS = 60
 
 GROUND_Y = 450
 
-TITLE = "Counter-Strike Runner"
+TITLE = "Counter-Strike Run"
 
 FONT_NAME = "emulogic"
 FONT_FILE = BASE_DIR / "assets" / "fonts" / "emulogic.ttf"
